@@ -1,0 +1,20 @@
+{
+  "name": "fastify-textlint-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "author": "TomoyaShibata <wind.of.hometown@gmail.com>",
+  "private": true,
+  "scripts": {
+    "start": "node server"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "fastify": "^0.29.2",
+    "fastify-formbody": "^1.0.1",
+    "textlint": "^8.2.1",
+    "textlint-rule-max-ten": "^2.0.3",
+    "textlint-rule-no-mix-dearu-desumasu": "^3.0.3"
+  }
+}

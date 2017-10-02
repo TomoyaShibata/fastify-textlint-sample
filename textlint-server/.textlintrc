@@ -1,0 +1,10 @@
+{
+  "rules": {
+    "max-ten": {
+      "max": 2
+    },
+    "no-mix-dearu-desumasu": {
+      "strict": true
+    }
+  }
+}
